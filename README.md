@@ -31,3 +31,12 @@ Based on the information below, we can confirm that only Lot 3 is statistically 
 - T-Test by Lot
 
 <img width="742" alt="individual_t-stats" src="https://user-images.githubusercontent.com/85330159/133674503-26f1e95a-6602-44aa-8db7-a290e22a4cad.png">
+
+## Study Design: MechaCar vs Competition
+### What metric or metrics are to be tested?
+
+### What is the null hypothesis or alternative hypothesis?
+
+### What statistical test will be used to test the hypothesis? And why?
+
+### What data is needed to run the statistical test?
