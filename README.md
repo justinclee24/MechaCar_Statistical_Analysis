@@ -24,7 +24,7 @@ According to the datatables below created from the current manufacturing data, t
 ## T-Tests on Suspension Coils
 Based on the information below, we can confirm that only Lot 3 is statistically dissimilar to the population mean of 1,500 PSI. Given we are basing out decision on the p-value statistic, Lot 3 is the only one with a value of less than .05 (.04). Therefore, the p-values for the totals report as well as Lot 1 and 2 T-Tests (.06, 1, and .61, respectively) can confirm that they are statistically similar to the population mean of 1,500 PSI.
 
-- T-Test by aggregate
+- T-Test in aggregate
 
 <img width="630" alt="total_t-stat" src="https://user-images.githubusercontent.com/85330159/133674481-33db40b0-1d98-430f-a974-3a1c376e8e20.png">
 
