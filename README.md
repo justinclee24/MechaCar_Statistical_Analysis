@@ -34,13 +34,13 @@ Based on the information below, we can confirm that only Lot 3 is statistically 
 
 ## Study Design: MechaCar vs Competition
 ### What metric or metrics are to be tested?
-In this study of MechaCar vs other competitors in the market, metrics to be considered and ultimately tested include: cost, city/highway fuel efficiency, horse power, maintenance cost, emission level, and defective units/recall rate, and potentially overall customer satisfaction.
+- In this study of MechaCar vs other competitors in the market, metrics to be considered and ultimately tested include: cost, city/highway fuel efficiency, horse power, maintenance cost, emission level, and defective units/recall rate, and potentially overall customer satisfaction.
 
 ### What is the null hypothesis or alternative hypothesis?
-Null Hypothesis (H0): Based on the observed metrics, there is no statistical difference in overall preference with consumers in dealing with MechaCar vs. market competitors.
-Alternative Hypothesis (H1): Based on the observed metrics, there is a statistical difference in overall preference with consumers in dealing with MechaCar vs. market competitors.
+- Null Hypothesis (H0): Based on the observed metrics, there is no statistical difference in overall preference with consumers in dealing with MechaCar vs. market competitors.
+- Alternative Hypothesis (H1): Based on the observed metrics, there is a statistical difference in overall preference with consumers in dealing with MechaCar vs. market competitors.
 
 ### What statistical test will be used to test the hypothesis? And why?
-The statistical test that may be used to test the hypothesis is the two-sample t-test. This test is chosen so that MechaCar can be compared against a competitor based on the mean value given all of the specified metrics. However, if looking at MechaCar vs. multiple other competitors, an ANOVA test would be the better test to utilize.
+- The statistical test that may be used to test the hypothesis is the two-sample t-test. This test is chosen so that MechaCar can be compared against a competitor based on the mean value given all of the specified metrics. However, if looking at MechaCar vs. multiple other competitors, an ANOVA test would be the better test to utilize.
 ### What data is needed to run the statistical test?
-Regarding type of data necessary to run the ANOVA test, given that the distribution of the dataset is normal, the independent variable must be categorical (nominal or ordinal) while the dependent variables must be a continuous (interal or ratio) level of measurement.
+- Regarding type of data necessary to run the ANOVA test, given that the distribution of the dataset is normal, the independent variable must be categorical (nominal or ordinal) while the dependent variables must be a continuous (interal or ratio) level of measurement.
